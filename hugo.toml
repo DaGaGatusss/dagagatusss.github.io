@@ -1,4 +1,4 @@
-baseURL =' https://DaGaGatusss.github.io/d4s-site/ '
+baseURL ='https://DaGaGatusss.github.io/d4s-site/ '
 languageCode = 'en-us'
 title = 'D4Ss Site'
 theme = "hugo-theme-stack"
