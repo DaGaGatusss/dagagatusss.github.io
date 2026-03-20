@@ -2,7 +2,7 @@ name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main]  #Set a branch to deploy
 
 permissions:
   contents: read
@@ -19,7 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          submodules: recursive  # importante para temas
+          submodules: recursive  # Fetch hugo themes (recursive or true)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
