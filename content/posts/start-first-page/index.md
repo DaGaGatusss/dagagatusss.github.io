@@ -1,6 +1,6 @@
 ---
 title: The first post in my article's site
-date: 2026-03-27 T16:11:22+08:00
+date: 2026-11-06
 lastmod: 2025-05-01T22:58:55+08:00
 image: port.png
 description: Bla Bla Bla
@@ -12,6 +12,7 @@ tags:
   - Rust
   - Bevy
   - Shader
+  - markdown
 ---
 
 > Cober: x.cmcmmcmc

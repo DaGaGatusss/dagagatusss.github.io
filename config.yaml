@@ -1,5 +1,5 @@
 baseurl: https://dagagatusss.github.io/
-languageCode: zh-cn
+languageCode: es
 theme: hugo-theme-stack
 pagination:
     pagerSize: 5
@@ -10,7 +10,7 @@ disqusShortname: hugo-theme-stack
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk
-DefaultContentLanguage: zh-cn
+DefaultContentLanguage: es
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
