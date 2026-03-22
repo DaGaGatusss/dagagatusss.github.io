@@ -2,3 +2,6 @@ baseURL ='https://DaGaGatusss.github.io/'
 languageCode = 'en-us'
 title = 'D4Ss Site'
 theme = "hugo-theme-stack"
+
+[markup.goldmark.renderer]
+  unsafe = true
