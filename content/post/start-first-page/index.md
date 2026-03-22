@@ -19,7 +19,7 @@ tags:
 ## Example
 sadhajsdhjshjhshdsjad.
 
- ![GTA 6](port.jpg)
+ ![GTA 6|480](port.jpg)
 
 dsahjhdhadsadndsandsad.
 
