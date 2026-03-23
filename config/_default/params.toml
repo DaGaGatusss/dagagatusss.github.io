@@ -8,7 +8,11 @@ favicon        = "img/avatar.png"
 [sidebar]
     emoji    = "✏️"
     subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    avatar   = "img/avatar.png"
+
+    [sidebar.avatar]
+    enable = true
+    local = true
+    scr = "img/avatar.png"
 
 [article]
     [article.license]
