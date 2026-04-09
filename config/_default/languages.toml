@@ -1,10 +1,19 @@
-[en]
-    languageName = "English"
+[es]
+    languageName = "Spanish"
     title        = "Hugo Theme Stack"
     weight       = 1
 
+    [es.params.sidebar]
+        subtitle = "Vinci quin se vinci"
+
+[en]
+    languageName = "English"
+    title        = "Hugo Theme Stack"
+    weight       = 2
+
     [en.params.sidebar]
         subtitle = "Card-style Hugo theme designed for bloggers"
+
 
 [zh]
     languageName = "简体中文"

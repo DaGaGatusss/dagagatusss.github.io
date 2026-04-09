@@ -4,12 +4,13 @@ title: Mermaid Diagrams
 date: 2025-12-23
 description: A comprehensive guide to creating diagrams with Mermaid in Hugo
 categories:
-    - Themes
-    - Syntax
+  - Themes
+  - Syntax
 tags:
-    - Mermaid
-    - Diagrams
-    - Markdown
+  - Mermaid
+  - Diagrams
+  - Markdown
+image: port.png
 ---
 
 This theme supports [Mermaid](https://mermaid.js.org/) diagrams directly in your Markdown content. Mermaid lets you create diagrams and visualizations using text and code.
@@ -601,3 +602,5 @@ Mermaid is strict about syntax. Common issues:
 - [Mermaid Documentation](https://mermaid.js.org/intro/)
 - [Mermaid Live Editor](https://mermaid.live/) - Test diagrams interactively
 - [Mermaid Syntax Reference](https://mermaid.js.org/intro/syntax-reference.html)
+
+
