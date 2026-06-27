@@ -14,7 +14,7 @@ image: port.png
 slug: procedural-anti-aliasing
 ---
 
-> Cober: x.cmcmmcmc
+> Cover: xxxx
 
 ## Headings
 

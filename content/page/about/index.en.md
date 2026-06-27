@@ -1,8 +1,8 @@
 ---
 title: About
-description: A modest site of academic achievements, projects and some personal opinions.
+description: Everything you need to know about this site and its author.
 date: 2026-01-26
-lastmod: 2026-04-08
+lastmod: 2026-01-26
 menu:
     main: 
         weight: -90
@@ -24,9 +24,9 @@ I started my journey in web development over 10 years ago. Since then, I've work
 
 ### Skills
 
-- **Front-end**: HTML, CSS, JavaScript
-- **Back-end**: Node.js, Python, Rust
-- **Tools**: Git, Bash, Hugo,  
+- **Front-end**: HTML, CSS, JavaScript, React, Vue
+- **Back-end**: Node.js, Python, Go
+- **Tools**: Git, Docker, Hugo, Neovim
 
 ## Contact Me
 
@@ -35,7 +35,7 @@ Feel free to reach out if you have any questions or just want to say hi!
 - **Email**: [hello@example.com](mailto:hello@example.com)
 - **Twitter**: [@example](https://twitter.com/example)
 - **GitHub**: [example](https://github.com/example)
-- **Mastodont** :[example](google.com)
+
 ---
 
 > "Logic will get you from A to B. Imagination will take you everywhere."  
