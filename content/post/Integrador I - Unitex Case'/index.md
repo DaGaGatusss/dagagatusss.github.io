@@ -10,5 +10,10 @@ tags:
   - Industria
   - Algorithm
   - lead
-image:
+image: cover.jpg
 ---
+# OOO
+![Image 1](1.jpg)  ![Image 2](2.jpg)
+
+![Image 3](PL.jpg)  
+

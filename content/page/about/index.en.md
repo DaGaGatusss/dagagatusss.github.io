@@ -9,7 +9,6 @@ menu:
         params:
             icon: user
 ---
-
 ## Who is this for?
 
 This is a sample **About** page. You can use it to introduce yourself, your blog, or your project. 

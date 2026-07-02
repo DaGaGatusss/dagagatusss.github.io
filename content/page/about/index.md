@@ -1,16 +1,19 @@
 ---
 title: About
-description: A modest site of academic achievements, projects and some personal opinions.
+description: Mi pequeño portafolio, donde podras encontrar las cosas que hago y en las que estoy trabajando, estoy añadiendo cosas porque aun no se manejarme muy bien por aqui, bueno... gracias por visitar este blog.
 date: 2026-01-26
 lastmod: 2026-04-08
 menu:
-    main: 
-        weight: -90
-        params:
-            icon: user
+  main:
+    weight: -90
+    params:
+      icon: user
 ---
 
-## Who is this for?
+
+## Para quien es esto?
+
+![Imagen 1](PL.jpg)
 
 This is a sample **About** page. You can use it to introduce yourself, your blog, or your project. 
 
